@@ -15,7 +15,6 @@
     - Tales Of Lumeria
     - GhosterCoaster
     - GenScape
-    - InfoVis Projects
     - Adv_Database_Projects
     - AI_FinalProject
   - Associated with:
