@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Cait-L
-- 👀 I’m interested in Game Design and Development
-- 🌱 I have a Masters in Entertainment Technology and another in Computer Science
-- 💞️ I’m looking to collaborate on Game Design Projects.
-- ✨ Roles I am best suited for are narrative designer, gameplay designer, and developer
+- 👀 I’m interested in software development as well as game design and development
+- 🌱 I have two Masters: one in Computer Science from Kent State and another one in Entertainment Technology from Carnegie Mellon
+- 💞️ I’m looking to collaborate on any projects that have a high focus on object oriented programming, especially in the gaming industry.
+- ✨ Roles I am best suited for are software developer, gameplay designer, game developer, and narrative designer
 - 📫 How to reach me: clenhoff2@gmail.com
 - ⛓️ Other Links:
   - LinkedIn: https://www.linkedin.com/in/caitlyn-lenhoff-9634251b0/
